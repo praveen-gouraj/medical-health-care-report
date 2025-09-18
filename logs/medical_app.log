@@ -1,0 +1,68 @@
+[2025-09-18 22:15:38,569] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:15:38,570] ERROR [app.gemini_analyzer:20] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:15:38,570] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:15:38,591] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:15:38,595] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:16:15,686] INFO [werkzeug:187]  * Detected change in 'D:\\Hackthon\\medical-report-simplifier\\backend\\app\\api_routes.py', reloading
+[2025-09-18 22:16:18,324] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:16:18,326] ERROR [app.gemini_analyzer:20] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:16:18,356] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:16:18,390] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:16:18,396] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:17:16,533] INFO [werkzeug:187]  * Detected change in 'D:\\Hackthon\\medical-report-simplifier\\setup.py', reloading
+[2025-09-18 22:17:18,511] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:17:18,512] ERROR [app.gemini_analyzer:20] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:17:18,512] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:17:18,535] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:17:18,539] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:23:39,402] INFO [werkzeug:187]  * Detected change in 'D:\\Hackthon\\medical-report-simplifier\\backend\\app\\config.py', reloading
+[2025-09-18 22:23:42,176] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:23:42,178] ERROR [app.gemini_analyzer:20] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:23:42,178] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:23:42,215] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:23:42,222] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:27:16,810] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:27:16,813] ERROR [app.gemini_analyzer:20] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:27:16,813] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:27:16,869] INFO [werkzeug:187] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-09-18 22:27:16,871] INFO [werkzeug:187] [33mPress CTRL+C to quit[0m
+[2025-09-18 22:27:16,875] INFO [werkzeug:187]  * Restarting with stat
+[2025-09-18 22:27:18,809] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:27:18,811] ERROR [app.gemini_analyzer:20] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:27:18,812] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:27:18,841] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:27:18,846] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:32:21,869] INFO [werkzeug:187]  * Detected change in 'D:\\Hackthon\\medical-report-simplifier\\backend\\app\\gemini_analyzer.py', reloading
+[2025-09-18 22:32:22,165] INFO [werkzeug:187]  * Restarting with stat
+[2025-09-18 22:32:24,603] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:32:24,604] ERROR [app.gemini_analyzer:21] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:32:24,605] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:32:24,631] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:32:24,635] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:32:44,961] INFO [werkzeug:187]  * Detected change in 'D:\\Hackthon\\medical-report-simplifier\\backend\\app\\gemini_analyzer.py', reloading
+[2025-09-18 22:32:45,250] INFO [werkzeug:187]  * Restarting with stat
+[2025-09-18 22:32:47,740] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:32:47,742] ERROR [app.gemini_analyzer:21] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:32:47,742] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:32:47,770] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:32:47,778] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:33:48,464] INFO [werkzeug:187]  * Detected change in 'D:\\Hackthon\\medical-report-simplifier\\backend\\app\\api_routes.py', reloading
+[2025-09-18 22:33:48,695] INFO [werkzeug:187]  * Restarting with stat
+[2025-09-18 22:33:50,836] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:33:50,837] ERROR [app.gemini_analyzer:21] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:33:50,838] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:33:50,861] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:33:50,866] INFO [werkzeug:187]  * Debugger PIN: 665-552-338
+[2025-09-18 22:36:25,831] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:36:25,832] ERROR [app.gemini_analyzer:21] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:36:25,833] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:36:25,868] INFO [werkzeug:187] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-09-18 22:36:25,869] INFO [werkzeug:187] [33mPress CTRL+C to quit[0m
+[2025-09-18 22:36:25,872] INFO [werkzeug:187]  * Restarting with stat
+[2025-09-18 22:36:27,712] INFO [app.ai_analyzer:21] Medical knowledge base loaded successfully
+[2025-09-18 22:36:27,713] ERROR [app.gemini_analyzer:21] GEMINI_API_KEY not found in environment variables
+[2025-09-18 22:36:27,713] WARNING [root:25] Gemini analyzer not available: GEMINI_API_KEY is required
+[2025-09-18 22:36:27,731] WARNING [werkzeug:187]  * Debugger is active!
+[2025-09-18 22:36:27,735] INFO [werkzeug:187]  * Debugger PIN: 665-552-338

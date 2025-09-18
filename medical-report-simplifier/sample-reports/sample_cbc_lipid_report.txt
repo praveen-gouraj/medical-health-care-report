@@ -1,0 +1,56 @@
+GENERAL HOSPITAL
+Medical Laboratory Report
+
+Patient Name: John Doe
+Date of Birth: 01/15/1980
+Age: 43 years
+Gender: Male
+Date of Collection: 09/18/2025
+Report Date: 09/18/2025
+
+COMPLETE BLOOD COUNT (CBC)
+
+Test Name                   Result      Reference Range      Unit        Flag
+------------------------------------------------------------------------
+Hemoglobin                  8.5         13.8-17.2           g/dL        LOW
+Hematocrit                  25.2        40.7-50.3           %           LOW
+Red Blood Cell Count        2.85        4.7-6.1             ×10⁶/μL     LOW
+White Blood Cell Count      12.5        4.5-11.0            ×10³/μL     HIGH
+Platelet Count             180         150-450              ×10³/μL     NORMAL
+
+LIPID PROFILE
+
+Test Name                   Result      Reference Range      Unit        Flag
+------------------------------------------------------------------------
+Total Cholesterol          250         <200                 mg/dL       HIGH
+LDL Cholesterol           160         <100                 mg/dL       HIGH
+HDL Cholesterol           35          >40                  mg/dL       LOW
+Triglycerides             200         <150                 mg/dL       HIGH
+
+BASIC METABOLIC PANEL
+
+Test Name                   Result      Reference Range      Unit        Flag
+------------------------------------------------------------------------
+Glucose (Fasting)          150         70-100               mg/dL       HIGH
+Blood Urea Nitrogen        25          7-20                 mg/dL       HIGH
+Creatinine                 1.8         0.84-1.21            mg/dL       HIGH
+Sodium                     135         136-145              mEq/L       LOW
+Potassium                  3.2         3.5-5.0              mEq/L       LOW
+Chloride                   98          98-107               mEq/L       NORMAL
+
+THYROID FUNCTION TESTS
+
+Test Name                   Result      Reference Range      Unit        Flag
+------------------------------------------------------------------------
+TSH                        6.5         0.4-4.0              mIU/L       HIGH
+Free T4                    0.8         0.9-1.7              ng/dL       LOW
+
+PHYSICIAN COMMENTS:
+- Anemia workup recommended
+- Lipid management needed
+- Glucose control required
+- Kidney function assessment
+- Thyroid hormone replacement therapy indicated
+
+This report contains multiple abnormal values requiring medical attention.
+Please follow up with your physician for proper evaluation and treatment.

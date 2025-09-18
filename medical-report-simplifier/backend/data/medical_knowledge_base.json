@@ -1,0 +1,313 @@
+{
+  "test_parameters": {
+    "Hemoglobin": {
+      "normal_ranges": {
+        "male": {"min": 13.8, "max": 17.2, "unit": "g/dL"},
+        "female": {"min": 12.1, "max": 15.1, "unit": "g/dL"},
+        "general": {"min": 12.0, "max": 17.0, "unit": "g/dL"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Anemia",
+          "explanation": "Your hemoglobin is low, which means your blood may not be carrying enough oxygen to your body. This could indicate anemia.",
+          "severity": "moderate",
+          "recommendations": "Consult your doctor about possible causes like iron deficiency, chronic disease, or other conditions.",
+          "risk_score": 6,
+          "symptoms": ["Fatigue", "Weakness", "Pale skin", "Shortness of breath"],
+          "urgency": "moderate",
+          "lifestyle_tips": ["Eat iron-rich foods like spinach and red meat", "Consider vitamin C to enhance iron absorption", "Avoid tea/coffee with meals"]
+        },
+        "high": {
+          "condition": "Polycythemia",
+          "explanation": "Your hemoglobin is higher than normal, which could indicate your body is producing too many red blood cells.",
+          "severity": "moderate",
+          "recommendations": "This could be due to dehydration, smoking, or other conditions. Please discuss with your doctor.",
+          "risk_score": 5,
+          "symptoms": ["Headaches", "Dizziness", "Red face", "High blood pressure"],
+          "urgency": "moderate",
+          "lifestyle_tips": ["Stay well hydrated", "Avoid smoking", "Monitor blood pressure regularly"]
+        }
+      },
+      "category": "Complete Blood Count (CBC)",
+      "aliases": ["Hgb", "Hb"],
+      "importance": "high"
+    },
+    "Hematocrit": {
+      "normal_ranges": {
+        "male": {"min": 40.7, "max": 50.3, "unit": "%"},
+        "female": {"min": 36.1, "max": 44.3, "unit": "%"},
+        "general": {"min": 36.0, "max": 50.0, "unit": "%"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Low hematocrit",
+          "explanation": "Your hematocrit is low, meaning you have a lower percentage of red blood cells in your blood.",
+          "severity": "moderate",
+          "recommendations": "This often accompanies anemia. Your doctor may want to investigate the cause.",
+          "risk_score": 5,
+          "symptoms": ["Fatigue", "Weakness", "Cold hands/feet"],
+          "urgency": "moderate",
+          "lifestyle_tips": ["Include iron-rich foods in diet", "Get adequate rest", "Stay hydrated"]
+        },
+        "high": {
+          "condition": "High hematocrit",
+          "explanation": "Your hematocrit is high, meaning you have a higher percentage of red blood cells.",
+          "severity": "moderate",
+          "recommendations": "This could be due to dehydration or other conditions. Discuss with your doctor.",
+          "risk_score": 5,
+          "symptoms": ["Headaches", "Blurred vision", "High blood pressure"],
+          "urgency": "moderate",
+          "lifestyle_tips": ["Increase fluid intake", "Avoid excessive alcohol", "Regular exercise"]
+        }
+      },
+      "category": "Complete Blood Count (CBC)",
+      "aliases": ["Hct"],
+      "importance": "medium"
+    },
+    "White Blood Cell Count": {
+      "normal_ranges": {
+        "general": {"min": 4.5, "max": 11.0, "unit": "×10³/μL"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Leukopenia",
+          "explanation": "Your white blood cell count is low, which means your immune system might not be working at full capacity.",
+          "severity": "moderate",
+          "recommendations": "This could increase your risk of infections. Your doctor may want to investigate the cause."
+        },
+        "high": {
+          "condition": "Leukocytosis",
+          "explanation": "Your white blood cell count is high, which could indicate your body is fighting an infection or inflammation.",
+          "severity": "moderate",
+          "recommendations": "This could be due to infection, stress, or other conditions. Follow up with your doctor."
+        }
+      },
+      "category": "Complete Blood Count (CBC)",
+      "aliases": ["WBC", "Leukocytes"]
+    },
+    "Platelet Count": {
+      "normal_ranges": {
+        "general": {"min": 150, "max": 450, "unit": "×10³/μL"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Thrombocytopenia",
+          "explanation": "Your platelet count is low, which means your blood may not clot properly.",
+          "severity": "high",
+          "recommendations": "This increases bleeding risk. Important to discuss with your doctor immediately."
+        },
+        "high": {
+          "condition": "Thrombocytosis",
+          "explanation": "Your platelet count is high, which could increase the risk of blood clots.",
+          "severity": "moderate",
+          "recommendations": "This needs evaluation by your doctor to determine the cause."
+        }
+      },
+      "category": "Complete Blood Count (CBC)",
+      "aliases": ["Platelets", "PLT"]
+    },
+    "Total Cholesterol": {
+      "normal_ranges": {
+        "general": {"min": 0, "max": 200, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "high": {
+          "condition": "High cholesterol",
+          "explanation": "Your total cholesterol is elevated, which may increase your risk of heart disease.",
+          "severity": "moderate",
+          "recommendations": "Consider dietary changes, exercise, and discuss treatment options with your doctor."
+        }
+      },
+      "category": "Lipid Profile",
+      "aliases": ["Cholesterol"]
+    },
+    "LDL Cholesterol": {
+      "normal_ranges": {
+        "general": {"min": 0, "max": 100, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "high": {
+          "condition": "High LDL cholesterol",
+          "explanation": "Your 'bad' cholesterol (LDL) is high, which can lead to plaque buildup in your arteries.",
+          "severity": "moderate",
+          "recommendations": "This increases heart disease risk. Discuss lifestyle changes and possible medications with your doctor."
+        }
+      },
+      "category": "Lipid Profile",
+      "aliases": ["LDL", "Bad Cholesterol"]
+    },
+    "HDL Cholesterol": {
+      "normal_ranges": {
+        "male": {"min": 40, "max": 999, "unit": "mg/dL"},
+        "female": {"min": 50, "max": 999, "unit": "mg/dL"},
+        "general": {"min": 40, "max": 999, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Low HDL cholesterol",
+          "explanation": "Your 'good' cholesterol (HDL) is low. HDL helps remove bad cholesterol from your blood.",
+          "severity": "moderate",
+          "recommendations": "Exercise and healthy diet can help raise HDL levels. Discuss with your doctor."
+        }
+      },
+      "category": "Lipid Profile",
+      "aliases": ["HDL", "Good Cholesterol"]
+    },
+    "Triglycerides": {
+      "normal_ranges": {
+        "general": {"min": 0, "max": 150, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "high": {
+          "condition": "High triglycerides",
+          "explanation": "Your triglyceride levels are elevated, which may increase your risk of heart disease.",
+          "severity": "moderate",
+          "recommendations": "Reduce sugar and refined carbs, exercise regularly, and discuss with your doctor."
+        }
+      },
+      "category": "Lipid Profile",
+      "aliases": ["TG"]
+    },
+    "Glucose": {
+      "normal_ranges": {
+        "fasting": {"min": 70, "max": 100, "unit": "mg/dL"},
+        "random": {"min": 70, "max": 140, "unit": "mg/dL"},
+        "general": {"min": 70, "max": 100, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Hypoglycemia",
+          "explanation": "Your blood sugar is low, which can cause symptoms like dizziness, sweating, or confusion.",
+          "severity": "high",
+          "recommendations": "If symptomatic, eat something with sugar immediately. Discuss with your doctor about causes."
+        },
+        "high": {
+          "condition": "Hyperglycemia",
+          "explanation": "Your blood sugar is elevated, which could indicate diabetes or prediabetes.",
+          "severity": "high",
+          "recommendations": "This requires immediate attention from your doctor for proper evaluation and management."
+        }
+      },
+      "category": "Basic Metabolic Panel",
+      "aliases": ["Blood Sugar", "Blood Glucose"]
+    },
+    "Creatinine": {
+      "normal_ranges": {
+        "male": {"min": 0.84, "max": 1.21, "unit": "mg/dL"},
+        "female": {"min": 0.59, "max": 1.04, "unit": "mg/dL"},
+        "general": {"min": 0.6, "max": 1.2, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "high": {
+          "condition": "Elevated creatinine",
+          "explanation": "Your creatinine is high, which may indicate your kidneys aren't filtering waste properly.",
+          "severity": "high",
+          "recommendations": "This needs immediate evaluation by your doctor to assess kidney function."
+        }
+      },
+      "category": "Basic Metabolic Panel",
+      "aliases": ["Serum Creatinine"]
+    },
+    "Blood Urea Nitrogen": {
+      "normal_ranges": {
+        "general": {"min": 7, "max": 20, "unit": "mg/dL"}
+      },
+      "conditions": {
+        "high": {
+          "condition": "Elevated BUN",
+          "explanation": "Your blood urea nitrogen is high, which may indicate kidney problems or dehydration.",
+          "severity": "moderate",
+          "recommendations": "Discuss with your doctor about kidney function and possible causes."
+        }
+      },
+      "category": "Basic Metabolic Panel",
+      "aliases": ["BUN"]
+    },
+    "Sodium": {
+      "normal_ranges": {
+        "general": {"min": 136, "max": 145, "unit": "mEq/L"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Hyponatremia",
+          "explanation": "Your sodium level is low, which can affect fluid balance in your body.",
+          "severity": "moderate",
+          "recommendations": "This could be due to various causes. Your doctor needs to evaluate this."
+        },
+        "high": {
+          "condition": "Hypernatremia",
+          "explanation": "Your sodium level is high, which could indicate dehydration or other conditions.",
+          "severity": "moderate",
+          "recommendations": "Increase fluid intake and discuss with your doctor."
+        }
+      },
+      "category": "Basic Metabolic Panel",
+      "aliases": ["Na"]
+    },
+    "Potassium": {
+      "normal_ranges": {
+        "general": {"min": 3.5, "max": 5.0, "unit": "mEq/L"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Hypokalemia",
+          "explanation": "Your potassium level is low, which can affect muscle and heart function.",
+          "severity": "high",
+          "recommendations": "This can be serious and needs immediate attention from your doctor."
+        },
+        "high": {
+          "condition": "Hyperkalemia",
+          "explanation": "Your potassium level is high, which can affect heart rhythm.",
+          "severity": "high",
+          "recommendations": "This can be dangerous and needs immediate medical attention."
+        }
+      },
+      "category": "Basic Metabolic Panel",
+      "aliases": ["K"]
+    },
+    "Thyroid Stimulating Hormone": {
+      "normal_ranges": {
+        "general": {"min": 0.4, "max": 4.0, "unit": "mIU/L"}
+      },
+      "conditions": {
+        "low": {
+          "condition": "Hyperthyroidism",
+          "explanation": "Your TSH is low, which may indicate an overactive thyroid gland.",
+          "severity": "moderate",
+          "recommendations": "This can cause symptoms like weight loss, rapid heartbeat. Discuss with your doctor."
+        },
+        "high": {
+          "condition": "Hypothyroidism",
+          "explanation": "Your TSH is high, which may indicate an underactive thyroid gland.",
+          "severity": "moderate",
+          "recommendations": "This can cause fatigue, weight gain. Your doctor may prescribe thyroid medication."
+        }
+      },
+      "category": "Thyroid Function",
+      "aliases": ["TSH"]
+    }
+  },
+  "severity_levels": {
+    "low": {
+      "color": "green",
+      "priority": 1,
+      "message": "This is usually not concerning, but mention it to your doctor."
+    },
+    "moderate": {
+      "color": "yellow",
+      "priority": 2,
+      "message": "This should be discussed with your doctor."
+    },
+    "high": {
+      "color": "red",
+      "priority": 3,
+      "message": "This requires immediate medical attention."
+    }
+  },
+  "disclaimers": [
+    "This analysis is for educational purposes only and should not replace professional medical advice.",
+    "Always consult with your healthcare provider for proper interpretation of your test results.",
+    "Reference ranges may vary between laboratories and should be confirmed with your doctor.",
+    "Some medications, medical conditions, and other factors can affect test results."
+  ]
+}

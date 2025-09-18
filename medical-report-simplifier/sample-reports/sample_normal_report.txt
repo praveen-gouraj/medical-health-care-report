@@ -1,0 +1,40 @@
+METROPOLITAN MEDICAL CENTER
+Laboratory Test Results
+
+Patient: Sarah Johnson
+DOB: 03/22/1985
+Gender: Female
+Test Date: 09/18/2025
+
+COMPLETE BLOOD COUNT
+
+Hemoglobin: 14.2 g/dL (Normal: 12.1-15.1)
+Hematocrit: 42.1% (Normal: 36.1-44.3)
+White Blood Cells: 6.8 ×10³/μL (Normal: 4.5-11.0)
+Platelets: 275 ×10³/μL (Normal: 150-450)
+
+COMPREHENSIVE METABOLIC PANEL
+
+Glucose: 88 mg/dL (Normal: 70-100)
+Sodium: 140 mEq/L (Normal: 136-145)
+Potassium: 4.2 mEq/L (Normal: 3.5-5.0)
+Chloride: 102 mEq/L (Normal: 98-107)
+CO2: 24 mEq/L (Normal: 22-29)
+BUN: 15 mg/dL (Normal: 7-20)
+Creatinine: 0.9 mg/dL (Normal: 0.59-1.04)
+
+LIPID PANEL
+
+Total Cholesterol: 185 mg/dL (Desirable: <200)
+HDL Cholesterol: 58 mg/dL (Desirable: >50)
+LDL Cholesterol: 95 mg/dL (Optimal: <100)
+Triglycerides: 120 mg/dL (Normal: <150)
+
+THYROID FUNCTION
+
+TSH: 2.1 mIU/L (Normal: 0.4-4.0)
+
+INTERPRETATION:
+All test results are within normal limits. 
+Continue current health maintenance routine.
+Annual follow-up recommended.
