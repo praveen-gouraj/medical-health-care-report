@@ -22,7 +22,7 @@
 4. **🤖 AI Assistant**: Conversational health guidance and parameter explanations
 5. **📈 Health Trends**: Comparative analysis with exportable trend data
 
-### 🎯 **Competition Differentiators**
+### **Competition Differentiators**
 - **Modern UI/UX**: Glassmorphism design, dark mode, framer-motion animations
 - **Data Visualization**: Interactive charts (recharts, chart.js) with health analytics
 - **Gamification**: Achievement system, health scoring, improvement streaks
