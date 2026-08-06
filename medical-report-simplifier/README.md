@@ -40,7 +40,7 @@
 - **Economic Accessibility**: Free AI-powered health insights
 - **Geographic Reach**: Cloud-based platform for global access
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### **Option 1: Automated Setup (Recommended)**
 ```bash
