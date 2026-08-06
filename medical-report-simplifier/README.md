@@ -161,7 +161,7 @@ npm start
 ```
 
 ## Important Disclaimer
-⚠️ **This tool is for educational purposes only and should not replace professional medical advice. Always consult with healthcare professionals for medical concerns.**
+ **This tool is for educational purposes only and should not replace professional medical advice. Always consult with healthcare professionals for medical concerns.**
 
 ## Sample Input/Output
 **Input**: CBC report showing Hemoglobin: 8.5 g/dL (Normal: 12-16)
