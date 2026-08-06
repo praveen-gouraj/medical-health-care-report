@@ -28,7 +28,7 @@
 - **Gamification**: Achievement system, health scoring, improvement streaks
 - **Global Impact**: Direct UN SDG 3 & 10 contributions with impact tracking
 
-## 🎯 SDG Alignment
+##  SDG Alignment
 
 ### **UN SDG 3: Good Health and Well-being**
 - **Democratizing Health Information**: Making medical reports accessible to everyone
