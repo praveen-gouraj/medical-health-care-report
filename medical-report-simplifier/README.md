@@ -8,7 +8,7 @@
 [![SDG](https://img.shields.io/badge/UN%20SDG-3%20%26%2010-orange.svg)](https://sdgs.un.org/goals)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-## � Hackathon Winning Features
+##  Hackathon Winning Features
 
 ###  **Dual AI Analysis Engine**
 - **Gemini AI Integration**: Advanced natural language understanding for medical reports
