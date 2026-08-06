@@ -10,7 +10,7 @@
 
 ## � Hackathon Winning Features
 
-### 🤖 **Dual AI Analysis Engine**
+###  **Dual AI Analysis Engine**
 - **Gemini AI Integration**: Advanced natural language understanding for medical reports
 - **Smart Fallback System**: Enhanced rule-based analysis when AI is unavailable
 - **Multi-Parameter Analysis**: Comprehensive health scoring (0-100) and risk assessment (0-10)
