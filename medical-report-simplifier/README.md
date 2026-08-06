@@ -69,7 +69,7 @@ cp backend/.env.example backend/.env
 # Edit .env file with your API keys
 ```
 
-## 🔑 API Keys & Configuration
+## API Keys & Configuration
 
 ### **Essential (for full functionality):**
 ```bash
