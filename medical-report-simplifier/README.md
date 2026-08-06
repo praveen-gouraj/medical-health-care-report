@@ -15,7 +15,7 @@
 - **Smart Fallback System**: Enhanced rule-based analysis when AI is unavailable
 - **Multi-Parameter Analysis**: Comprehensive health scoring (0-100) and risk assessment (0-10)
 
-### 📊 **5-Tab Interactive Interface**
+###  **5-Tab Interactive Interface**
 1. **🏠 Health Dashboard**: Real-time health metrics, achievements, and progress tracking
 2. **📄 Upload Report**: Smart file processing with patient information forms
 3. **💬 Analyze Text**: Direct text input with AI-powered analysis
