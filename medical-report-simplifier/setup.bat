@@ -27,7 +27,6 @@ if not exist "venv" (
     echo Creating Python virtual environment...
     python -m venv venv
 )
-
 REM Activate virtual environment
 echo Activating virtual environment...
 call venv\Scripts\activate.bat
