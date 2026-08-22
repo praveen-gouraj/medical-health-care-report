@@ -1,6 +1,5 @@
 @echo off
 REM Medical Report Simplifier - Windows Setup Script
-
 echo 🏥 Medical Report Simplifier Setup
 echo 
 
