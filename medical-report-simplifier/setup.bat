@@ -34,7 +34,6 @@ call venv\Scripts\activate.bat
 REM Install Python dependencies
 echo Installing Python dependencies...
 pip install -r requirements.txt
-
 echo ✅ Backend setup complete
 
 REM Setup Frontend
