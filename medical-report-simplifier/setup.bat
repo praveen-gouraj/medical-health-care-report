@@ -17,7 +17,6 @@ if errorlevel 1 (
     exit /b 1
 )
 echo ✅ Python and Node.js found
-
 REM Setup Backend
 echo.
 echo 🔧 Setting up Backend...
