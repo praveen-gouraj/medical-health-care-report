@@ -55,7 +55,6 @@ echo ✅ Frontend setup complete
 
 REM Return to root directory
 cd ..
-
 echo.
 echo 🚀 Setup Complete!
 echo.
