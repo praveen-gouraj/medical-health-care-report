@@ -17,7 +17,6 @@ if errorlevel 1 (
     pause
     exit /b 1
 )
-
 echo ✅ Python and Node.js found
 
 REM Setup Backend
