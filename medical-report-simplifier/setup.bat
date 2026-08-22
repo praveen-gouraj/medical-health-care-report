@@ -2,7 +2,6 @@
 REM Medical Report Simplifier - Windows Setup Script
 echo 🏥 Medical Report Simplifier Setup
 echo 
-
 REM Check if Python is installed
 python --version >nul 2>&1
 if errorlevel 1 (
