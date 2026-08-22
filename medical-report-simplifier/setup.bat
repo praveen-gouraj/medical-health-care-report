@@ -21,7 +21,6 @@ REM Setup Backend
 echo.
 echo 🔧 Setting up Backend...
 cd backend
-
 REM Create virtual environment if it doesn't exist
 if not exist "venv" (
     echo Creating Python virtual environment...
