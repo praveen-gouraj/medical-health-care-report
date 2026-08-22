@@ -10,7 +10,6 @@ if errorlevel 1 (
     pause
     exit /b 1
 )
-
 REM Check if Node.js is installed
 node --version >nul 2>&1
 if errorlevel 1 (
