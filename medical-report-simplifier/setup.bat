@@ -39,7 +39,6 @@ REM Setup Frontend
 echo.
 echo 🔧 Setting up Frontend...
 cd ..\frontend
-
 REM Install Node dependencies
 echo Installing Node.js dependencies...
 npm install
