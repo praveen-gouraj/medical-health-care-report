@@ -45,7 +45,6 @@ echo Installing Node.js dependencies...
 npm install
 
 echo ✅ Frontend setup complete
-
 REM Return to root directory
 cd ..
 echo.
